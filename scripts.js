@@ -9,7 +9,8 @@ form.addEventListener("submit", (event) => {
 });
 result.innerHTML= "NO calculation performed"
 
- if (dividend === "" || divider === ""){
+ 
+if (dividend === "" || divider === ""){
   result.innerText = "Division not performed. Both values are required in inputs. Try again"
   return
 };
