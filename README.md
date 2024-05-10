@@ -1,5 +1,5 @@
-Feature: Calculator Functionality
-This feature describes the behavior of a simple calculator web application.
+# Whole Number Division
+
 
 Scenario: Successful Calculation
 Given a web form with input fields for dividend and divider
